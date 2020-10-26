@@ -1,10 +1,12 @@
 # Restaurant page
 
-This is part of Javascript section in Microverse's Main curriculum. The goal of the project is to show the understanding of the benefits of modularized code as well as the ability to set up a javascript application using webpack.
+This is part of Javascript section in Microverse's Main curriculum. The goal of the project is to show the understanding of  ability to set up a javascript application using webpack.
 
 ## Stack used:
 .Node js
+
 .Webpack
+
 .Javascript(ES6)
 
 ## Installation 
@@ -38,4 +40,5 @@ Contributions, issues and feature requests are welcome!
 
 ## Acknowledgements
 . [Microverse](https://www.microverse.org/)
+
 . [The Odin Project](https://www.theodinproject.com/)
